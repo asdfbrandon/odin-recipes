@@ -1,3 +1,4 @@
 h1 {color:hsl(0,64%,68%);}
 * {font-family: 'Courier New', Courier, monospace;text-align: justify;}
-.bluebg {background-color: rgb(213,250,255)}
+h1,h2 {background-color: rgb(213,250,255)}
+.rlink {font-size: 18px; font-weight: lighter; font-style: italic;}
