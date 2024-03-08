@@ -2,4 +2,6 @@ h1 {color:hsl(0,64%,68%);}
 * {font-family: 'Courier New', Courier, monospace;text-align: justify;}
 h1,h2 {background-color: rgb(213,250,255)}
 .rlink {font-size: 18px; font-weight: lighter; font-style: italic;}
-.centered {text-align: center; border:3px dotted skyblue; box-align: center}
+.centered {text-align: center; border:3px dotted skyblue; padding: 40px}
+.centul {display:inline-block;background-color:rgb(169, 225, 255, 0.3) ;}
+.cntrdiv {text-align: center;}
